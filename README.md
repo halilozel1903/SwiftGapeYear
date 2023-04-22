@@ -39,3 +39,8 @@ In the example usage, the variable `year` is set to 2024, and the `isLeapYear` f
 ```swift
 2024 is a leap year
 ```
+## Donation 💸
+
+If this project help 💁 you, Can you give me a cup of coffee? ☕
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/halilozel1903)
